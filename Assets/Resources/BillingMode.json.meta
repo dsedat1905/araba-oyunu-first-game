@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-guid: 0a7cac0eb3cb4a81b6f1e7026a060b19
-labels:
-- gvh
-- gvh_manifest
-- gvh_version-1.2.125.0
+guid: 43b7758fc4e88754f96b8fdc70a2ac7e
 TextScriptImporter:
   externalObjects: {}
   userData: 

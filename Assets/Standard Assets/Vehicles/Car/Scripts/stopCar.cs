@@ -8,6 +8,6 @@ public class stopCar : MonoBehaviour, IPointerDownHandler
 	public GameObject car;
    public virtual void OnPointerDown(PointerEventData p)
 	{
-		car.GetComponent<Rigidbody>().velocity = Vector3.zero;
+		car.GetComponent<Rigidbody>().linearVelocity = Vector3.zero;
 	}
 }
